@@ -27,14 +27,3 @@ El programa solicita al usuario un identificador y un requisito.
 
 Después realiza una validación básica y muestra si el requisito cumple con cada uno de los criterios definidos.
 
-## Ejemplo
-
-Identificador:
-
-REQ-001
-
-Requisito:
-
-El sistema debe permitir registrar hasta 100 usuarios.
-
-El programa mostrará el resultado de la validación para cada criterio.
